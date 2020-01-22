@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/language-flashcards/static/css/main.2854d00a.chunk.css",
-    "main.js": "/language-flashcards/static/js/main.52701b9c.chunk.js",
-    "main.js.map": "/language-flashcards/static/js/main.52701b9c.chunk.js.map",
+    "main.css": "/language-flashcards/static/css/main.5d1a9354.chunk.css",
+    "main.js": "/language-flashcards/static/js/main.5b33d835.chunk.js",
+    "main.js.map": "/language-flashcards/static/js/main.5b33d835.chunk.js.map",
     "runtime-main.js": "/language-flashcards/static/js/runtime-main.fb9bf22a.js",
     "runtime-main.js.map": "/language-flashcards/static/js/runtime-main.fb9bf22a.js.map",
     "static/css/2.acf07a5e.chunk.css": "/language-flashcards/static/css/2.acf07a5e.chunk.css",
-    "static/js/2.e4ae552b.chunk.js": "/language-flashcards/static/js/2.e4ae552b.chunk.js",
-    "static/js/2.e4ae552b.chunk.js.map": "/language-flashcards/static/js/2.e4ae552b.chunk.js.map",
+    "static/js/2.db38144b.chunk.js": "/language-flashcards/static/js/2.db38144b.chunk.js",
+    "static/js/2.db38144b.chunk.js.map": "/language-flashcards/static/js/2.db38144b.chunk.js.map",
     "index.html": "/language-flashcards/index.html",
-    "precache-manifest.f11dfc83a2d5eee002e581638221a036.js": "/language-flashcards/precache-manifest.f11dfc83a2d5eee002e581638221a036.js",
+    "precache-manifest.7c7014c0e3af7052285bee6ed14cd0fd.js": "/language-flashcards/precache-manifest.7c7014c0e3af7052285bee6ed14cd0fd.js",
     "service-worker.js": "/language-flashcards/service-worker.js",
     "static/css/2.acf07a5e.chunk.css.map": "/language-flashcards/static/css/2.acf07a5e.chunk.css.map",
-    "static/css/main.2854d00a.chunk.css.map": "/language-flashcards/static/css/main.2854d00a.chunk.css.map",
-    "static/js/2.e4ae552b.chunk.js.LICENSE": "/language-flashcards/static/js/2.e4ae552b.chunk.js.LICENSE",
+    "static/css/main.5d1a9354.chunk.css.map": "/language-flashcards/static/css/main.5d1a9354.chunk.css.map",
+    "static/js/2.db38144b.chunk.js.LICENSE": "/language-flashcards/static/js/2.db38144b.chunk.js.LICENSE",
     "static/media/logo.svg": "/language-flashcards/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb9bf22a.js",
     "static/css/2.acf07a5e.chunk.css",
-    "static/js/2.e4ae552b.chunk.js",
-    "static/css/main.2854d00a.chunk.css",
-    "static/js/main.52701b9c.chunk.js"
+    "static/js/2.db38144b.chunk.js",
+    "static/css/main.5d1a9354.chunk.css",
+    "static/js/main.5b33d835.chunk.js"
   ]
 }
