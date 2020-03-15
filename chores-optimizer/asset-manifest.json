@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.489a1579.chunk.css",
-    "main.js": "/static/js/main.c46f02d5.chunk.js",
-    "main.js.map": "/static/js/main.c46f02d5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a16761aa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a16761aa.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.88aa3350.chunk.js": "/static/js/2.88aa3350.chunk.js",
-    "static/js/2.88aa3350.chunk.js.map": "/static/js/2.88aa3350.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.733b01c6f82a085cfe51560546c7af63.js": "/precache-manifest.733b01c6f82a085cfe51560546c7af63.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.489a1579.chunk.css.map": "/static/css/main.489a1579.chunk.css.map",
-    "static/js/2.88aa3350.chunk.js.LICENSE.txt": "/static/js/2.88aa3350.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/chores-optimizer/static/css/main.489a1579.chunk.css",
+    "main.js": "/chores-optimizer/static/js/main.b23c2b5c.chunk.js",
+    "main.js.map": "/chores-optimizer/static/js/main.b23c2b5c.chunk.js.map",
+    "runtime-main.js": "/chores-optimizer/static/js/runtime-main.b0dcd003.js",
+    "runtime-main.js.map": "/chores-optimizer/static/js/runtime-main.b0dcd003.js.map",
+    "static/css/2.de424728.chunk.css": "/chores-optimizer/static/css/2.de424728.chunk.css",
+    "static/js/2.88aa3350.chunk.js": "/chores-optimizer/static/js/2.88aa3350.chunk.js",
+    "static/js/2.88aa3350.chunk.js.map": "/chores-optimizer/static/js/2.88aa3350.chunk.js.map",
+    "index.html": "/chores-optimizer/index.html",
+    "precache-manifest.6dc7b813c7498ff854cd9b8eee934d37.js": "/chores-optimizer/precache-manifest.6dc7b813c7498ff854cd9b8eee934d37.js",
+    "service-worker.js": "/chores-optimizer/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/chores-optimizer/static/css/2.de424728.chunk.css.map",
+    "static/css/main.489a1579.chunk.css.map": "/chores-optimizer/static/css/main.489a1579.chunk.css.map",
+    "static/js/2.88aa3350.chunk.js.LICENSE.txt": "/chores-optimizer/static/js/2.88aa3350.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chores-optimizer/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a16761aa.js",
+    "static/js/runtime-main.b0dcd003.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.88aa3350.chunk.js",
     "static/css/main.489a1579.chunk.css",
-    "static/js/main.c46f02d5.chunk.js"
+    "static/js/main.b23c2b5c.chunk.js"
   ]
 }
