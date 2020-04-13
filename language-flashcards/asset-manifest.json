@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/language-flashcards/static/css/main.d3c9b06d.chunk.css",
-    "main.js": "/language-flashcards/static/js/main.01aafbf0.chunk.js",
-    "main.js.map": "/language-flashcards/static/js/main.01aafbf0.chunk.js.map",
+    "main.css": "/language-flashcards/static/css/main.44c3aefe.chunk.css",
+    "main.js": "/language-flashcards/static/js/main.8d7f80f2.chunk.js",
+    "main.js.map": "/language-flashcards/static/js/main.8d7f80f2.chunk.js.map",
     "runtime-main.js": "/language-flashcards/static/js/runtime-main.fb9bf22a.js",
     "runtime-main.js.map": "/language-flashcards/static/js/runtime-main.fb9bf22a.js.map",
     "static/css/2.c716ddb7.chunk.css": "/language-flashcards/static/css/2.c716ddb7.chunk.css",
-    "static/js/2.4bc8402b.chunk.js": "/language-flashcards/static/js/2.4bc8402b.chunk.js",
-    "static/js/2.4bc8402b.chunk.js.map": "/language-flashcards/static/js/2.4bc8402b.chunk.js.map",
+    "static/js/2.6c7ca1c2.chunk.js": "/language-flashcards/static/js/2.6c7ca1c2.chunk.js",
+    "static/js/2.6c7ca1c2.chunk.js.map": "/language-flashcards/static/js/2.6c7ca1c2.chunk.js.map",
     "index.html": "/language-flashcards/index.html",
-    "precache-manifest.475c5190b4fb5782d31cd9a97490952e.js": "/language-flashcards/precache-manifest.475c5190b4fb5782d31cd9a97490952e.js",
+    "precache-manifest.4f01d25790435038cf4519c08ea98919.js": "/language-flashcards/precache-manifest.4f01d25790435038cf4519c08ea98919.js",
     "service-worker.js": "/language-flashcards/service-worker.js",
     "static/css/2.c716ddb7.chunk.css.map": "/language-flashcards/static/css/2.c716ddb7.chunk.css.map",
-    "static/css/main.d3c9b06d.chunk.css.map": "/language-flashcards/static/css/main.d3c9b06d.chunk.css.map",
-    "static/js/2.4bc8402b.chunk.js.LICENSE": "/language-flashcards/static/js/2.4bc8402b.chunk.js.LICENSE",
-    "static/media/logo.svg": "/language-flashcards/static/media/logo.5d5d9eef.svg"
+    "static/css/main.44c3aefe.chunk.css.map": "/language-flashcards/static/css/main.44c3aefe.chunk.css.map",
+    "static/js/2.6c7ca1c2.chunk.js.LICENSE": "/language-flashcards/static/js/2.6c7ca1c2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.fb9bf22a.js",
     "static/css/2.c716ddb7.chunk.css",
-    "static/js/2.4bc8402b.chunk.js",
-    "static/css/main.d3c9b06d.chunk.css",
-    "static/js/main.01aafbf0.chunk.js"
+    "static/js/2.6c7ca1c2.chunk.js",
+    "static/css/main.44c3aefe.chunk.css",
+    "static/js/main.8d7f80f2.chunk.js"
   ]
 }
