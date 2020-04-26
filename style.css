@@ -2,8 +2,8 @@ body {
   background-color: #fcfcfc;
   font-size: 1.2em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 40px;
+  font-size: xx-large;
+  line-height: 6vh;
 }
 .center-div {
   position: absolute;
