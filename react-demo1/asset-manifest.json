@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.8427b1e0.chunk.js",
-    "main.js.map": "/static/js/main.8427b1e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.362ec428.js",
-    "runtime-main.js.map": "/static/js/runtime-main.362ec428.js.map",
-    "static/js/2.a4f4dcb6.chunk.js": "/static/js/2.a4f4dcb6.chunk.js",
-    "static/js/2.a4f4dcb6.chunk.js.map": "/static/js/2.a4f4dcb6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e6f979d0e852125a5363bde9d08fe575.js": "/precache-manifest.e6f979d0e852125a5363bde9d08fe575.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a4f4dcb6.chunk.js.LICENSE.txt": "/static/js/2.a4f4dcb6.chunk.js.LICENSE.txt"
+    "main.css": "https://benji.github.io/react-demo1/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://benji.github.io/react-demo1/static/js/main.8427b1e0.chunk.js",
+    "main.js.map": "https://benji.github.io/react-demo1/static/js/main.8427b1e0.chunk.js.map",
+    "runtime-main.js": "https://benji.github.io/react-demo1/static/js/runtime-main.1c11377f.js",
+    "runtime-main.js.map": "https://benji.github.io/react-demo1/static/js/runtime-main.1c11377f.js.map",
+    "static/js/2.a4f4dcb6.chunk.js": "https://benji.github.io/react-demo1/static/js/2.a4f4dcb6.chunk.js",
+    "static/js/2.a4f4dcb6.chunk.js.map": "https://benji.github.io/react-demo1/static/js/2.a4f4dcb6.chunk.js.map",
+    "index.html": "https://benji.github.io/react-demo1/index.html",
+    "precache-manifest.54a409c9052733791adf72df9615c387.js": "https://benji.github.io/react-demo1/precache-manifest.54a409c9052733791adf72df9615c387.js",
+    "service-worker.js": "https://benji.github.io/react-demo1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://benji.github.io/react-demo1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a4f4dcb6.chunk.js.LICENSE.txt": "https://benji.github.io/react-demo1/static/js/2.a4f4dcb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.362ec428.js",
+    "static/js/runtime-main.1c11377f.js",
     "static/js/2.a4f4dcb6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.8427b1e0.chunk.js"
